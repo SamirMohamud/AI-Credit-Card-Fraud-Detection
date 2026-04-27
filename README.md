@@ -34,7 +34,7 @@ The project follows the following pipeline:
 
 ## Files
 
-- `Card_Fraud_Detection_Project.ipynb` — full Colab notebook containing the implementation  
+Card_Fraud_Detection_Project.ipynb — full Colab notebook containing the implementation  
 
 ## Notes
 
